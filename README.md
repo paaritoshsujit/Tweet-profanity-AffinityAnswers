@@ -6,3 +6,6 @@ Here we have used two variables which are important to distinguis from one anoth
 
 profanity_count -> it is a set of values which denotes the number of profanities found in each sentence.
 profanity_degree -> based on the number of profanities found, we assign a fuzzy linguistic value along with its hedge to depict how profane the sentence is.
+
+
+The program can be further expanded to count for different word formations of the same racial slurs (which would bring us to stemming, lemmatization etc.).
